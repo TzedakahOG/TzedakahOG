@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @TzedakahOG
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Python in Data Science
-- 💞️ I’m looking to collaborate on projects that are related to beginner-intermediate level Data Science Projects
-- 📫 How to reach me : Please mail me on anupindisuryateja@gmail.com
+-🎓 Master's student in Data Science  
+-💡 Passionate about Machine Learning, Deep Learning, and AI Research  
+-📊 Skilled in Python, R, and Data Visualization  
+-🚀 Currently working on projects using the MIMIC-IV dataset  
+
+-🌐 [LinkedIn](www.linkedin.com/in/suryatejaanupindi) | [Email](anupindisuryateja@gmail.com)
+
 
 <!---
 TzedakahOG/TzedakahOG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
